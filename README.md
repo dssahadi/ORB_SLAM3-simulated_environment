@@ -32,4 +32,4 @@ Por fim:
 
 ```bash
 ros2 launch cbr_fase1 simulation.launch.py
-``
+``` 
