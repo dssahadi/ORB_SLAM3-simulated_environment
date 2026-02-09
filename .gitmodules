@@ -1,3 +1,6 @@
 [submodule "4295e666cbe654a83226a2549a972c4f"]
 	path = 4295e666cbe654a83226a2549a972c4f
 	url = https://gist.github.com/bharath5673/4295e666cbe654a83226a2549a972c4f
+[submodule "frtl_2025_ws"]
+	path = frtl_2025_ws
+	url = https://github.com/Equipe-eVTOL-ITA/frtl_2025_ws
