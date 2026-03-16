@@ -43,10 +43,10 @@ Tbc: !!opencv-matrix
 IMU.InsertKFsWhenLost: 0
 
 # IMU noise (Use those from VINS-mono)
-IMU.NoiseGyro: 1e-9 # 3 # 2.44e-4 #1e-3 # rad/s^0.5
-IMU.NoiseAcc: 1e-9 #2 # 1.47e-3 #1e-2 # m/s^1.5
-IMU.GyroWalk: 1e-9 # rad/s^1.5
-IMU.AccWalk: 1e-9 # m/s^2.5
+IMU.NoiseGyro: 0.02
+IMU.NoiseAcc: 0.2
+IMU.GyroWalk: 0.00002
+IMU.AccWalk: 0.002
 IMU.Frequency: 200
 
 #--------------------------------------------------------------------------------------------
